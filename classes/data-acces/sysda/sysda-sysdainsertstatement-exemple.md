@@ -6,7 +6,7 @@ Concretament ```SysDaInsertStatement``` s'utilitza per inserir dades en una taul
 ## Exemple
 
 ```
-class TRNSysDa
+class SysDaInsertStatement
 {
 
   public static void main(Args _args)
