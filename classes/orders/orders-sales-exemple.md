@@ -1,4 +1,4 @@
-# Sales orders
+# SalesOrder
 En Microsoft Dynamics 365 for Finance and Operations, un “SalesOrder” és un objecte que es crea per vendre 
 productes o serveis a un client. Juga un paper clau en el procés de venda, ja que permet fer un seguiment de les vendes 
 des de la sol·licitud inicial fins al lliurament dels béns o serveis.
