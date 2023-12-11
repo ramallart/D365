@@ -8,7 +8,7 @@ des de la sol·licitud inicial fins al lliurament dels béns o serveis.
 /// <summary>
 /// It handles the creation of a sales order with a single sales line.
 /// </summary>
-class TRNCreateSalesOrder
+class CreateSalesOrder
 {
   /// <summary>
   /// Class entry point. The system will call this method when a designated menu is selected 
