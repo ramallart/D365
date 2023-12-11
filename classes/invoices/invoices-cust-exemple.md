@@ -5,6 +5,7 @@ poden utilitzar per verificar les factures del client, ja que es pot comparar la
 SalesOrder per assegurar-se que els càrrecs són correctes.
 
 ## Exemple
+```
 class CreateInvoice
 {
   /// <summary>
@@ -60,3 +61,4 @@ class CreateInvoice
     ttscommit; // Commit the transaction
   }
 }
+```
