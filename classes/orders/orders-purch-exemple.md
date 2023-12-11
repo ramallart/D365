@@ -12,7 +12,7 @@ inicial fins a la recepció dels béns o serveis.
 /// <summary>
 /// It handles the creation of a purchase order with a single purchase line.
 /// </summary>
-class TRNCreatePurchOrder
+class CreatePurchOrder
 {
   /// <summary>
   /// Class entry point. The system will call this method when a designated menu is selected 
