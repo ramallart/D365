@@ -1,4 +1,4 @@
-# Insert_RecordSet
+# Insert_recordSet
 La classe ```Query::insert_recordset``` a Dynamics 365 Finance and Operations és una eina molt potent que permet copiar dades 
 directament des d’una o més taules d’origen a una taula de destinació en un sol viatge al servidor. Aquesta classe és especialment útil 
 quan necessites copiar múltiples registres des de taules existents a una taula de destinació.
